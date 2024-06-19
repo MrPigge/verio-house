@@ -110,7 +110,7 @@ public class RoomDetail implements Serializable {
     /**
      * 窗户
      */
-    private String window;
+    private String windo;
 
     /**
      * 是否有地铁
